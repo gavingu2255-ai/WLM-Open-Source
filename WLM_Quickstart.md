@@ -100,6 +100,8 @@ Result
 - No psychological projection
 - Pure structural analysis
 - High‑dimensional clarity
+Why it stabilizes:
+It removes emotional gravity and forces the model to track structural tensions instead of inferring psychological states.
 
 Example 2 — Role‑Play Prompt → Anti‑Projection Prompt
 Before
@@ -114,6 +116,8 @@ Result
 - No persona
 - No emotional coloring
 - Clear structural mapping
+Why it stabilizes:
+It eliminates persona simulation, preventing narrative drift and keeping the model anchored to decision‑level structure.
 
 Example 3 — Linear Prompt → Folded Expression
 Before
@@ -128,6 +132,8 @@ Result
 - High structural coherence
 - Stronger narrative geometry
 - No guessing
+- Why it stabilizes:
+It compresses orientation, constraints, and transitions into a single unit, giving the model a coherent structural trajectory to unfold.
 
 Example 4 — Ambiguous Request → Dimensional Handshake
 Before
@@ -142,6 +148,8 @@ Result
 - Stable dimensional layer
 - Predictable density
 - No role assumption
+Why it stabilizes:
+It fixes the dimensional layer (mid‑density, explicit transitions), preventing the model from guessing your knowledge level or intent.
 
 Example 5 — Collapse Scenario → Stabilized Output
 Before
@@ -156,6 +164,8 @@ Result
 - No therapy mode
 - No emotional guessing
 - Pure structural mapping
+Why it stabilizes:
+It removes psychological inference triggers and redirects the model toward pattern‑level analysis rather than personal narrative reconstruction.
 
 6. Minimal WLM Checklist
 Before sending a prompt, check:
