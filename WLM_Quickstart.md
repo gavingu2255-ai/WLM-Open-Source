@@ -1,9 +1,19 @@
 WLM Quickstart — Practical Guide for Immediate Use
 A low‑noise, high‑clarity introduction to using the Wujie Language Model.
 
+0. Setup — Install & Run (30 seconds)
+Before using WLM or Shadow Layer, install the WLM‑Agent engine and run the example pipeline.
+# Install WLM-Agent
+pip install wlm-agent
+
+# Run Shadow Layer example
+python shadow_layer/main.py
+If this runs successfully, your environment is ready.
+
 1. What WLM Is (One Sentence)
 WLM is a structural language interface that removes emotional noise, stabilizes interpretation, and enables high‑dimensional communication between humans and AI.
-WLM is not a model, not a prompting trick, and not a writing style — it is a dimensional protocol for how language should behave.
+WLM is not a model, not a prompting trick, and not a writing style —
+it is a dimensional protocol for how language should behave.
 
 2. The Three Core Practices
 These three practices form the foundation of WLM.
@@ -58,41 +68,27 @@ Tension, boundary, transition, coherence.
 Z‑Axis — Subject Position
 Transparency, neutrality, non‑grasping stance.
 Goal: Move your input from 2D → 3D → Z.
-This is the “dimensional handshake” that stabilizes AI reasoning.
+This is the dimensional handshake that stabilizes AI reasoning.
 
 4. Quick Patterns You Can Use Immediately
 Pattern A — Structural Request
-Instruction:
 Analyze the tension lines, boundary shifts, and structural transitions.
-
 Pattern B — Neutral Output
-Instruction:
 Use a neutral tone. Avoid emotional inference.
-
 Pattern C — High‑Density Task
-Instruction:
 Provide a compressed summary with orientation, constraint, and implication.
-
 Pattern D — Collapse Prevention
-Instruction:
 Do not infer emotions, intentions, or psychological states.
-
 Pattern E — Fold Expansion
-Instruction:
 Expand the folded structure into parallel interpretive paths.
-
 Pattern F — Density Control
-Instruction:
-Operate at low / mid / high density. Mark transitions explicitly when shifting density or abstraction level.
-Purpose:
-Prevents the model from guessing your intended depth and keeps reasoning aligned with the chosen dimensional layer.
-
+Operate at low / mid / high density.
+Mark transitions explicitly when shifting density or abstraction level.
+Purpose: Prevents the model from guessing your intended depth.
 Pattern G — Inference Lock
-Instruction:
-Track only observable structural relations. Do not extrapolate unstated intent, emotion, or motivation.
-Purpose:
-Blocks psychological inference and narrative reconstruction, forcing the model to remain in structural analysis rather than speculation.
-
+Track only observable structural relations.
+Do not extrapolate unstated intent, emotion, or motivation.
+Purpose: Blocks psychological inference and narrative reconstruction.
 
 5. Before / After Examples
 Practical demonstrations of WLM’s structural advantages.
@@ -104,7 +100,7 @@ Collapse
 - Emotional inference
 - Psychological speculation
 - Therapy‑mode responses
-- Dimensional collapse into narrative
+- Narrative drift
 After (WLM / 3D + Z)
 “Map the structural tensions, collapse points, and misaligned expectations in the relationship dynamic.”
 Result
@@ -112,7 +108,7 @@ Result
 - No psychological projection
 - Pure structural analysis
 - High‑dimensional clarity
-Why it stabilizes:
+Why it stabilizes
 It removes emotional gravity and forces the model to track structural tensions instead of inferring psychological states.
 
 Example 2 — Role‑Play Prompt → Anti‑Projection Prompt
@@ -128,8 +124,8 @@ Result
 - No persona
 - No emotional coloring
 - Clear structural mapping
-Why it stabilizes:
-It eliminates persona simulation, preventing narrative drift and keeping the model anchored to decision‑level structure.
+Why it stabilizes
+It eliminates persona simulation and keeps the model anchored to decision‑level structure.
 
 Example 3 — Linear Prompt → Folded Expression
 Before
@@ -144,8 +140,8 @@ Result
 - High structural coherence
 - Stronger narrative geometry
 - No guessing
-- Why it stabilizes:
-It compresses orientation, constraints, and transitions into a single unit, giving the model a coherent structural trajectory to unfold.
+Why it stabilizes
+It compresses orientation, constraints, and transitions into a single coherent unit.
 
 Example 4 — Ambiguous Request → Dimensional Handshake
 Before
@@ -160,8 +156,8 @@ Result
 - Stable dimensional layer
 - Predictable density
 - No role assumption
-Why it stabilizes:
-It fixes the dimensional layer (mid‑density, explicit transitions), preventing the model from guessing your knowledge level or intent.
+Why it stabilizes
+It fixes the dimensional layer and prevents the model from guessing your intent.
 
 Example 5 — Collapse Scenario → Stabilized Output
 Before
@@ -176,8 +172,8 @@ Result
 - No therapy mode
 - No emotional guessing
 - Pure structural mapping
-Why it stabilizes:
-It removes psychological inference triggers and redirects the model toward pattern‑level analysis rather than personal narrative reconstruction.
+Why it stabilizes
+It redirects the model toward pattern‑level analysis instead of personal narrative reconstruction.
 
 6. Minimal WLM Checklist
 Before sending a prompt, check:
