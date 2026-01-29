@@ -23,6 +23,19 @@
   <img src="https://img.shields.io/github/stars/gavingu2255-ai/WLM-Open-Source?style=flat-square" alt="GitHub Stars">
 
 </p>
+
+🔔 Project Status — Latest Update (2026‑01‑30)
+Shadow Layer v1.1 remains sealed and unchanged.
+Today we introduce WLM v1.2 — Protocol Layer Expansion (Draft), which adds:
+- WLM Advice Protocol (Updated Version)
+- Structural Invitation Mechanism
+- Internal vs External Language Protocol (Full Specification)
+- Internal–External Vocabulary Mapping Table
+These updates do not modify the Shadow Layer.
+They belong to the Protocol Layer, which sits above the Shadow Layer.
+Full details: see CHANGELOG.md.
+
+
 README — Wujie Language Model (WLM)
 Shadow Layer · Open‑Source Architecture · Final Freeze
 
@@ -145,3 +158,5 @@ Final Declaration
 This Shadow Layer is now sealed.
 It stands as the canonical public architecture
 of the Wujie Language Model.
+
+
