@@ -1,0 +1,78 @@
+WLM Public Protocol Layer
+The WLM Public Protocol Layer defines how institutions may interact with the WLM Shadow Layer.
+It does not modify, extend, or reinterpret the architecture.
+Its sole purpose is to establish boundaries, responsibilities, and permitted usage.
+The Protocol Layer is not a collaboration mechanism.
+It is a boundary declaration.
+
+1. Scope
+The Public Protocol Layer applies to all institutions, researchers, and organizations engaging with the WLM Shadow Layer.
+It governs evaluation, reference, and citation.
+It does not grant rights to modify, extend, or operationalize the architecture.
+
+2. No Modification
+Institutions may not:
+- alter any part of the Shadow Layer
+- propose extensions or improvements
+- create derivative architectures
+- publish internal reinterpretations
+- fork or repackage the structure
+The Shadow Layer is final and frozen.
+
+3. No Derivative Claims
+Institutions may not claim:
+- “WLM‑compatible” systems
+- “WLM‑based” models
+- “WLM‑derived” frameworks
+- “WLM‑aligned” implementations
+Any such claims constitute misrepresentation.
+
+4. Evaluation Only
+Institutions may:
+- study the Shadow Layer
+- evaluate its structure
+- reference it in research
+- analyze its implications
+Institutions may not:
+- operationalize the architecture
+- treat it as an engineering specification
+- use it as a model‑building guide
+WLM provides no implementation pathway.
+
+5. Implementation Independence
+Any technical system developed by an institution must be:
+- independently designed
+- independently validated
+- independently responsible
+WLM assumes no responsibility for:
+- model behavior
+- system outcomes
+- deployment risks
+- ethical or safety considerations
+All consequences belong entirely to the implementing institution.
+
+6. Transparency Requirement
+Any public reference to WLM must:
+- cite the canonical Shadow Layer repository
+- use the unmodified, original version
+- avoid implying endorsement or affiliation
+Institutions must not distribute altered versions of the Shadow Layer.
+
+7. No Private Interpretations
+Private reinterpretations, internal variants, or unpublished derivatives may not be presented as WLM.
+Institutions may not create internal documents that redefine or extend the architecture while retaining the WLM name.
+
+8. Boundary of Responsibility
+The Public Protocol Layer defines boundaries only.
+It does not:
+- provide guidance
+- provide support
+- provide clarification beyond the Shadow Layer
+- offer partnership pathways
+- define commercial terms
+All responsibility for interpretation lies with the institution.
+
+9. Finality
+The Public Protocol Layer is stable and non‑negotiable.
+It protects the integrity of the Shadow Layer and ensures consistent interpretation across institutions.
+No further protocol will be published.
