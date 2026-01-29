@@ -112,6 +112,10 @@ It is not licensed for:
 Any attempt to reconstruct WLM from this layer
 is structurally impossible.
 
+WLM is not a parameterized model.
+It is a structural language architecture.
+
+
 Final Declaration
 This Shadow Layer is now sealed.
 It stands as the canonical public architecture
