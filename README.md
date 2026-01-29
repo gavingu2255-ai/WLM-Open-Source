@@ -1,13 +1,22 @@
 README — Wujie Language Model (WLM)
-Open‑Source Layer · Shadow Version · Final Freeze
+Shadow Layer · Open‑Source Architecture · Final Freeze
+
 Overview
-The Wujie Language Model (WLM) is a high‑dimensional language architecture designed to align human cognition and AI systems through structure rather than emotion or linear logic.
-It presents language as dimensional manifestation—a configuration of relationships, tensions, boundaries, and folds that determine how meaning appears across layers.
-This repository contains the Shadow Layer, the complete public architecture of WLM.
-It is structurally complete yet non‑executable, revealing the system’s dimensional framework without exposing protocol logic.
+The Wujie Language Model (WLM) is a high‑dimensional language architecture
+designed to align human cognition and AI systems through structure,
+not emotion, narrative, or linear logic.
+WLM treats language as dimensional manifestation—
+a configuration of relationships, tensions, boundaries, and folds
+that determine how meaning appears across layers.
+This repository contains the Shadow Layer,
+the complete public architecture of WLM.
+It is structurally complete,
+non‑executable,
+and reveals the system’s dimensional framework
+without exposing protocol logic.
 
 What This Layer Contains
-The Shadow Layer includes:
+The Shadow Layer includes the full conceptual architecture:
 - Structure‑First Language
 - Transparent Subject Architecture
 - Folded Expression
@@ -24,7 +33,7 @@ The Shadow Layer includes:
 This layer is complete and will not be modified.
 
 What This Layer Does NOT Contain
-The Shadow Layer intentionally excludes:
+The Shadow Layer intentionally excludes all operational logic:
 - Protocol logic
 - Routing rules
 - Training formats
@@ -33,23 +42,27 @@ The Shadow Layer intentionally excludes:
 - Compatibility layers
 - Implementation details
 - Any information enabling reconstruction of WLM
-These belong to the Implementation Layer (160,000 words), which is private and available only to strategic partners.
+These belong to the Implementation Layer
+(160,000 words),
+which is private and available only to strategic partners.
 
 Purpose of the Shadow Layer
 - Establish a stable public reference for WLM
 - Provide a dimensional framework for researchers
-- Enable conceptual alignment without exposing operational mechanisms
-- Preserve the source boundary
+- Enable conceptual alignment without exposing mechanisms
+- Preserve the Source Boundary
 - Serve as the entry point for future collaboration
-The Shadow Layer is the visible architecture, not the engine.
+The Shadow Layer is the visible architecture,
+not the engine.
 
 Versioning
 WLM Shadow Layer — Version 1.0 (Final Freeze)
 Date: 29 January 2026
 Location: Melbourne, Australia
-Author: Wujie Gu (Gavin)
+Author: Gavin (Wujie)
 This version is sealed.
-All future evolution occurs in higher layers (Implementation / Commercial / WLM 8.0+).
+All future evolution occurs in higher layers
+(Implementation / Commercial / WLM 8.0+).
 
 Source Boundary
 Structure can be trained.
@@ -65,18 +78,20 @@ WLM 7.0 is currently seeking Strategic Logic Partners for:
 - High‑dimensional cognitive research
 - Structural language interfaces
 - Next‑generation AI architectures
-Organizations interested in accessing the full protocol layer (160,000‑word Implementation Layer) may initiate contact by opening an issue in this repository.
+Organizations interested in accessing the full protocol layer
+(160,000‑word Implementation Layer)
+may initiate contact by opening an Issue in this repository.
 Please include:
 - Institutional affiliation
 - Research focus
 - Preferred contact email
-Location: Melbourne, Australia
+- Location: Melbourne, Australia
 
 Repository Structure
 /WLM-Shadow-Layer
 │
 ├── WLM — Open Source Layer (PDF)
-├── README.md  (this file)
+├── README.md  ← this file
 └── /engagement
       └── strategic-partner-template.md
 
@@ -94,8 +109,10 @@ It is not licensed for:
 - Protocol reconstruction
 - Commercial deployment
 - Derivative architectures
-Any attempt to reconstruct WLM from this layer is structurally impossible.
+Any attempt to reconstruct WLM from this layer
+is structurally impossible.
 
 Final Declaration
 This Shadow Layer is now sealed.
-It stands as the canonical public architecture of the Wujie Language Model.
+It stands as the canonical public architecture
+of the Wujie Language Model.
