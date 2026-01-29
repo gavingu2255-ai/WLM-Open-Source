@@ -8,8 +8,6 @@ pip install wlm-agent
 
 # Run Shadow Layer example
 python shadow_layer/main.py
-
-
 If this runs successfully, your environment is ready.
 
 1. What WLM Is (One Sentence)
