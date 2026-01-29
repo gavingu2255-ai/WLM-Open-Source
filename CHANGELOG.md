@@ -72,3 +72,76 @@ It transforms the project from a collection of drafts into a unified dimensional
 - protocol development
 - future WLM versions
 This release marks the transition from manuscript → specification.
+
+
+Version 1.2 — Protocol Layer Expansion Draft
+Release Date: 2026‑01‑30
+Status: Draft · Experimental · Protocol Layer
+Overview
+Version 1.2 introduces the first formal Protocol Layer of the Wujie Language Model.
+This update adds the complete specification for:
+- WLM Advice Protocol (Updated Version)
+- Structural Invitation Mechanism
+- Internal vs External Language Protocol (Full Specification)
+- Internal–External Vocabulary Mapping Table
+This marks the transition from Shadow Layer (v1.1) → Operational Protocol Layer (v1.2).
+
+🔧 Structural Additions
+1. WLM Advice Protocol — Updated Version
+A full rewrite of the WLM no‑advice principle, now including:
+- Structural Action Definition
+(non‑narrative, non‑emotional, non‑psychological, non‑directive)
+- Structural Invitation Mechanism
+(newly added; optional, light, non‑grasping)
+- Minimal Action Protocol
+(two allowed actions; no justification, no explanation)
+- Purpose Clarification
+(non‑narrative foothold; preserves agency; prevents collapse)
+This is the first time the Advice Protocol has been formalized as a dimensionally safe interaction mechanism.
+
+2. Internal Language vs External Expression Protocol (Full Specification)
+A complete, high‑density specification of:
+- Master Principle
+(internal = structure; external = manifestation)
+- Internal Language Definition
+(dimensional terms, operators, engineering logic)
+- External Language Definition
+(light, steady, non‑diagnostic, non‑technical)
+- Correct Internal → External Transformations
+- Layer Separation Rules
+(5 rules; strict non‑leakage)
+- Why Separation Matters
+(collapse scenarios vs stable scenarios)
+This is the first canonical version of the Internal/External Protocol.
+
+3. Internal–External Vocabulary Mapping Table
+A complete mapping between:
+- internal dimensional terms
+- external natural‑language equivalents
+This table enables:
+- safe externalization
+- cross‑layer translation
+- protocol‑level implementation
+
+🧹 Clean‑ups & Clarifications
+4. Removed narrative‑leaning phrasing
+Ensured all new protocol text:
+- avoids emotional anchoring
+- avoids psychological inference
+- avoids persuasive tone
+- maintains structural priority
+5. Clarified layer boundaries
+Explicitly separated:
+- Shadow Layer (v1.1)
+- Protocol Layer (v1.2)
+- Core Layer (future v2.0)
+
+📌 Summary
+Version 1.2 introduces the first operational protocol layer of WLM.
+It formalizes:
+- how WLM gives minimal actions
+- how internal language is used
+- how external language must be expressed
+- how the two layers remain strictly separated
+This release marks the transition from:
+Shadow Layer → Protocol Layer → (future) Core Layer.
