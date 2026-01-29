@@ -47,7 +47,7 @@ Versioning
 WLM Shadow Layer — Version 1.0 (Final Freeze)
 Date: 29 January 2026
 Location: Melbourne, Australia
-Author: Gavin (Wujie)
+Author: Wujie Gu (Gavin)
 This version is sealed.
 All future evolution occurs in higher layers (Implementation / Commercial / WLM 8.0+).
 
