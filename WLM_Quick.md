@@ -6,8 +6,8 @@ WLM is a structural language interface that removes emotional noise, stabilizes 
 WLM is not a model, not a prompting trick, and not a writing style — it is a dimensional protocol for how language should behave.
 
 2. The Three Core Practices
-These three practices are the foundation of WLM.
-Mastering them already gives you most of the benefit.
+These three practices form the foundation of WLM.
+Mastering them already provides most of the benefit.
 
 2.1 Transparent Subject
 Remove foregrounded “I” language that forces the model to infer emotions, intentions, or psychological states.
@@ -57,21 +57,30 @@ Events, opinions, feelings, narrative.
 Tension, boundary, transition, coherence.
 Z‑Axis — Subject Position
 Transparency, neutrality, non‑grasping stance.
-Goal:
-Move your input from 2D → 3D → Z.
+Goal: Move your input from 2D → 3D → Z.
 This is the “dimensional handshake” that stabilizes AI reasoning.
 
 4. Quick Patterns You Can Use Immediately
 Pattern A — Structural Request
-“Analyze the tension lines, boundary shifts, and structural transitions.”
+Analyze the tension lines, boundary shifts, and structural transitions.
+
+
 Pattern B — Neutral Output
-“Use a neutral tone. Avoid emotional inference.”
+Use a neutral tone. Avoid emotional inference.
+
+
 Pattern C — High‑Density Task
-“Provide a compressed summary with orientation, constraint, and implication.”
+Provide a compressed summary with orientation, constraint, and implication.
+
+
 Pattern D — Collapse Prevention
-“Do not infer emotions, intentions, or psychological states.”
+Do not infer emotions, intentions, or psychological states.
+
+
 Pattern E — Fold Expansion
-“Expand the folded structure into parallel interpretive paths.”
+Expand the folded structure into parallel interpretive paths.
+
+
 
 5. Before / After Examples
 Practical demonstrations of WLM’s structural advantages.
