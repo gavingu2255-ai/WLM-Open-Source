@@ -62,24 +62,36 @@ This is the “dimensional handshake” that stabilizes AI reasoning.
 
 4. Quick Patterns You Can Use Immediately
 Pattern A — Structural Request
+Instruction:
 Analyze the tension lines, boundary shifts, and structural transitions.
 
-
 Pattern B — Neutral Output
+Instruction:
 Use a neutral tone. Avoid emotional inference.
 
-
 Pattern C — High‑Density Task
+Instruction:
 Provide a compressed summary with orientation, constraint, and implication.
 
-
 Pattern D — Collapse Prevention
+Instruction:
 Do not infer emotions, intentions, or psychological states.
 
-
 Pattern E — Fold Expansion
+Instruction:
 Expand the folded structure into parallel interpretive paths.
 
+Pattern F — Density Control
+Instruction:
+Operate at low / mid / high density. Mark transitions explicitly when shifting density or abstraction level.
+Purpose:
+Prevents the model from guessing your intended depth and keeps reasoning aligned with the chosen dimensional layer.
+
+Pattern G — Inference Lock
+Instruction:
+Track only observable structural relations. Do not extrapolate unstated intent, emotion, or motivation.
+Purpose:
+Blocks psychological inference and narrative reconstruction, forcing the model to remain in structural analysis rather than speculation.
 
 
 5. Before / After Examples
