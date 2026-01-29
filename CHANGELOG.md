@@ -72,9 +72,3 @@ It transforms the project from a collection of drafts into a unified dimensional
 - protocol development
 - future WLM versions
 This release marks the transition from manuscript → specification.
-
-如果你愿意，我可以继续为你生成：
-- README.md（正式入口）
-- Repository structure blueprint
-- v1.2 / Protocol Layer roadmap
-你告诉我下一步。
