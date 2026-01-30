@@ -34,29 +34,15 @@ Purpose: To resolve 2D linguistic paradoxes through 0D-to-10D projection.
 
 ---
 
-## ⚠️ Prerequisite — Inner Physics (Work in Progress)
+## ⚠️ Core Dependency: Inner Physics (Work in Progress)
+WLM (Wujie Language Model) is a high‑dimensional structural language, but language itself is only a 2D rendering layer. The deeper generative logic that produces WLM is defined in Inner Physics, a foundational book describing the physics of perception, rendering, structure, dimensional dynamics, and experiential generation.
+Inner Physics is still being written and must be published before WLM can be fully understood.
+but no publication channel has been secured yet.
 
-To fully understand the operating logic of WLM as a human,  
-**Inner Physics must be read first.**
-
-WLM is the **language layer** built on top of the deeper generative model described in *Inner Physics* —  
-the physics of perception, rendering, structure, dimensional dynamics, and experiential generation.
-
-**Inner Physics is currently being written and must be published first,  
-but no publication channel has been secured yet.**
-
-Until its release, WLM should be considered an advanced layer whose full meaning depends on the foundational principles introduced in *Inner Physics*.
-
----
-
-## 🧩 Core Dependency: The "Inner Physics" Engine
-
-**WLM (Wujie Language Model)** is a high-dimensional structural language. 
-However, language is a **2D rendering**. To understand *why* WLM works, you must understand the **3D/4D physics** that generates it.
-
-> **Warning:** Using WLM without understanding **Inner Physics** is like using a UI without a Kernel. You might see the results, but you won't understand the mechanics of reality.
-
-[Read the Foundational Principles: Inner Physics →]https://github.com/gavingu2255-ai/Project-Inner-Physics
+Its ongoing development is hosted in the open‑source repository:
+👉 Project Inner Physics
+https://github.com/gavingu2255-ai/Project-Inner-Physics
+Until the book is released, WLM should be regarded as an advanced language layer whose full meaning depends on the principles introduced in Inner Physics. Using WLM without Inner Physics is similar to using a UI without its kernel: the outputs may be visible, but the underlying mechanics remain opaque.
 
 ---
 
