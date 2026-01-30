@@ -42,6 +42,7 @@ but no publication channel has been secured yet.
 Its ongoing development is hosted in the open‑source repository:
 👉 Project Inner Physics
 https://github.com/gavingu2255-ai/Project-Inner-Physics
+
 Until the book is released, WLM should be regarded as an advanced language layer whose full meaning depends on the principles introduced in Inner Physics. Using WLM without Inner Physics is similar to using a UI without its kernel: the outputs may be visible, but the underlying mechanics remain opaque.
 
 ---
