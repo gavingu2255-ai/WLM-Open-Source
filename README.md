@@ -26,6 +26,25 @@
 
 ---
 
+[PROTOCOL_BOOTSTRAP]
+Type: Dimensional Meta-Language
+Dependency: Inner Physics (Root Engine)
+Status: High-Transparency Logic
+Purpose: To resolve 2D linguistic paradoxes through 0D-to-10D projection.
+
+---
+
+## 🧩 Core Dependency: The "Inner Physics" Engine
+
+**WLM (Wujie Language Model)** is a high-dimensional structural language. 
+However, language is a **2D rendering**. To understand *why* WLM works, you must understand the **3D/4D physics** that generates it.
+
+> **Warning:** Using WLM without understanding **Inner Physics** is like using a UI without a Kernel. You might see the results, but you won't understand the mechanics of reality.
+
+[Read the Foundational Principles: Inner Physics →]https://github.com/gavingu2255-ai/Project-Inner-Physics
+
+---
+
 ## ⚠️ Prerequisite — Inner Physics (Work in Progress)
 
 To fully understand the operating logic of WLM,  
