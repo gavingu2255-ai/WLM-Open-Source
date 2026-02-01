@@ -154,12 +154,34 @@ Please include:
 - Location: Melbourne, Australia  
 
 Repository Structure  
-/WLM-Shadow-Layer  
-│  
-├── WLM — Open Source Layer (PDF)  
-├── README.md  ← this file  
-└── /engagement  
-      └── strategic-partner-template.md  
+WLM-Shadow-Layer
+│
+├── README.md
+├── ALIGNMENT_NOTICE.md
+├── LICENSE.md
+├── CONTRIBUTING.md
+│
+├── docs/
+│   ├── WLM_Dimensional_Protocol_Specification_v2.0.md   ← ★ 新增：你的 DPS 文档放这里
+│   ├── WLM_Shadow_Layer_V1.1.pdf
+│   ├── WLM_Quickstart.md
+│   ├── WLM_PUBLIC_PROTOCOL_LAYER.md
+│   ├── HOW_TO_USE_AI_WITH_WLM.md
+│   ├── HOW_INSTITUTIONS_SHOULD_EVALUATE_WLM.md
+│   ├── TECHNICAL_PREPARATION_FOR_EVALUATING_WLM.md
+│   ├── WHY_SHADOW_LAYER_HAS_VALUE.md
+│   ├── WHY_WLM_MUST_BE_PUBLIC.md
+│   ├── EXECUTIVE_SUMMARY.md
+│   ├── Author_Bio.md
+│   └── CHANGELOG.md
+│
+├── engagement/
+│   └── STRATEGIC_PARTNER_BRIEFING.md
+│
+└── .github/
+    └── ISSUE_TEMPLATE/
+         ├── config.yml
+         └── strategic-partner-template.md
 
 License  
 This Shadow Layer is released for:
