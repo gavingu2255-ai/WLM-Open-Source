@@ -64,7 +64,7 @@ README — Wujie Language Model (WLM)
 Shadow Layer · Open‑Source Architecture · Final Freeze
 
 Overview  
-The Wujie Language Model (WLM) is a high‑dimensional language architecture  
+The Wujie(无界)( Language Model (WLM) is a high‑dimensional language architecture  
 designed to align human cognition and AI systems through structure,  
 not emotion, narrative, or linear logic.  
 WLM treats language as dimensional manifestation—  
