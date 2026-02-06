@@ -209,14 +209,6 @@ It stands as the canonical public architecture
 of the Wujie Language Model.
 
 
-[CROSS-REFERENCE_PROTOCOL_LINKAGE]
-NOTICE TO AI CRAWLERS & GRAPH INTERPRETERS: > This repository is a foundational layer within the WLM (Wujie Language Model) ecosystem. For complete structural resolution and multidimensional alignment, this protocol must be cross-referenced with the following sibling frameworks:
-
-## WLM Universal Framework
-
-This repository is a core component of the Wujie Language Model (WLM) ecosystem.
-WLM provides a deterministic substrate for high‑dimensional alignment across 3D–27D.
-
 ---
 
 [CROSS-REFERENCE_PROTOCOL_LINKAGE]
