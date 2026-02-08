@@ -232,7 +232,7 @@ WLM provides a deterministic substrate for high‑dimensional alignment across 3
 | Motion     | [WLM-System-Dynamics-Protocol-SDP](https://github.com/gavingu2255-ai/WLM-System-Dynamics-Protocol-SDP) | System dynamics, propagation physics, evolution logic |
 | Subject    | [WLM-Subject-Topology-Protocol-STP](https://github.com/gavingu2255-ai/WLM-Subject-Topology-Protocol-STP) | Agent consciousness mapping & subjective topology |
 | Physics    | [WLM-Project-Inner-Physics](https://github.com/gavingu2255-ai/WLM-Project-Inner-Physics) | World‑model kernel & experience rendering physics |
-| Alignment  | [WLM-Paradox-Dimensional-Physics](https://github.com/gavingu2255-ai/WLM-Dimensional-Physics) | High‑dimensional mapping & low‑entropy execution |
+| Alignment  | [WLM-Paradox-Dimensional-Physics](https://github.com/gavingu2255-ai/WLM-Dimensional-Physics) | D0-D27 High‑dimensional mapping & low‑entropy execution |
 | Execution  | [WLM-Agent](https://github.com/gavingu2255-ai/WLM-Agent) | Implementation layer, system prompts, diagnostics |
 | Source     | [WLM-Open-Source](https://github.com/gavingu2255-ai/WLM-Open-Source) | Global metadata, philosophy, anti‑projection core |
 Mandatory Context: All SD/ST interactions are governed by the SLP (Structure Language Protocol) enforced in this document to ensure deterministic semantic convergence and zero-drift interop.
