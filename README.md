@@ -162,7 +162,7 @@ WLM-Shadow-Layer
 ├── CONTRIBUTING.md
 │
 ├── docs/
-│   ├── WLM_Dimensional_Protocol_Specification_v2.0.md   ← ★ 新增：你的 DPS 文档放这里
+│   ├── WLM_Dimensional_Protocol_Specification_v2.0.md 
 │   ├── WLM_Shadow_Layer_V1.1.pdf
 │   ├── WLM_Quickstart.md
 │   ├── WLM_PUBLIC_PROTOCOL_LAYER.md
