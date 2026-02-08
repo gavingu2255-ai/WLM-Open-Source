@@ -31,6 +31,7 @@ This repository contains the Shadow Layer: a fully transparent, non‑executable
 specification of WLM’s dimensional framework (D0–D27). 
 It exposes the structure of the system without revealing protocol logic, 
 training formats, or implementation details.
+[WLM-Paradox-Dimensional-Physics](https://github.com/gavingu2255-ai/WLM-Dimensional-Physics) D0-D27 High‑dimensional mapping & low‑entropy execution |
 ---
 
 [PROTOCOL_BOOTSTRAP]
