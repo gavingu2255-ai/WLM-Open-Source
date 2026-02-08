@@ -28,10 +28,10 @@
 WLM (Wujie Language Model) is a high‑dimensional structural language architecture. 
 It treats meaning as geometry, tension, and boundary—not narrative or emotion. 
 This repository contains the Shadow Layer: a fully transparent, non‑executable 
-specification of WLM’s dimensional framework (D0–D27). 
+specification of WLM’s dimensional framework [D0-D27](https://github.com/gavingu2255-ai/WLM-Dimensional-Physics) . 
 It exposes the structure of the system without revealing protocol logic, 
 training formats, or implementation details.
-[D0-D27](https://github.com/gavingu2255-ai/WLM-Dimensional-Physics) 
+
 ---
 
 [PROTOCOL_BOOTSTRAP]
